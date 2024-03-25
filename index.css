@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    background-color: red;
+}
+h1{
+    font-size: 0.5rem;
+}
+header img{
+    width: auto;
+    height: 100px;
+}
